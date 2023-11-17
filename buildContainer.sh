@@ -1,4 +1,0 @@
-#!/bin/bash
-
-docker build -t gustinimst/php8-apache:1.0 .
- 

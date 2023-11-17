@@ -1,4 +1,4 @@
-FROM php:8-apache
+FROM php:8.2-apache
 RUN apt-get -y update \
 && apt-get install -y zlib1g-dev libicu-dev g++ \ 
 && docker-php-ext-install mysqli && docker-php-ext-enable mysqli \ 
