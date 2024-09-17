@@ -1,5 +1,5 @@
 
-docker build -t gustinimst/php8-apache:1.3 .
+docker build -t gustinimst/php8-apache:1.4 .
  
 
 
