@@ -3,7 +3,8 @@ FROM php:8.3-apache
 # Installiere notwendige PHP-Erweiterungen und Apache-Module
 RUN apt-get -y update \
     && apt-get install -y \
-		libldap-dev \
+	libldap-dev \
+	zip \
         git \
         zlib1g-dev \
         libicu-dev \
