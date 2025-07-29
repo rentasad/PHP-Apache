@@ -19,4 +19,4 @@ it will be build to gustinimst/php8-apache:x.y
    ./DockerBuildAndPush.ps1
    
 Latest Release:
-    gustinimst/php8-apache:1.4
+    gustinimst/php8-apache:1.5
